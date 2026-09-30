@@ -53,3 +53,11 @@ We worked together across the project. My primary focus was **station imbalance 
 ## Project Context
 
 Zen City is an educational case study using bike rental data for Austin, Texas. Recommendations are proposed actions, rather than measured results from an implemented intervention.
+
+
+
+## Explore the Project
+
+- [Project report](zen-city-project-report.pdf)
+- [SQL queries and methodology](sql/)
+- [Station imbalance analysis](sql/06_full_station_balance_for_map.sql)
